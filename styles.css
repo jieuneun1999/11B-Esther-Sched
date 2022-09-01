@@ -30,7 +30,7 @@ body{
 
 .top-container article{
     background: #F2CC8F;;
-    padding: 2em;
+    padding: 1em;
     margin: 1em;
 }
 
@@ -177,7 +177,7 @@ margin: 1em 2em;
 
 @media (max-width: 940px){
     body{
-        margin-right: 3em;
+        margin-right: 10em;
     }
 
 }
