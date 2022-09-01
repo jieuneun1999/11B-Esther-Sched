@@ -30,7 +30,7 @@ body{
 
 .top-container article{
     background: #F2CC8F;;
-    padding: 1.5em;
+    padding: 2em;
     margin: 1em;
 }
 
@@ -175,8 +175,8 @@ margin: 1em 2em;
     font-family: 'Lato', sans-serif;
 }
 
-@media (max-width: 940px){
-    .top-container{
+@media (max-width: 940px) {
+    body {
         margin-right: 3em;
     }
 
